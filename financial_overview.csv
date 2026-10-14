@@ -1,0 +1,5 @@
+﻿metric_key,label,value_zar,gauge_min,gauge_max,change_pct,change_direction,change_period
+revenue_ytd,Revenue (YTD),12640000,0,20000000,18,up,vs last year
+gross_profit,Gross Profit,5320000,0,5000000,16,up,vs last year
+cash_balance,Cash Balance,3850000,0,20000000,5,down,vs last month
+debtors_90_days,Debtors (90 Days+),1420000,0,5000000,12,up,vs last month

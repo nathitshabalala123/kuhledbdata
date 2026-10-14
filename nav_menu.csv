@@ -1,0 +1,16 @@
+﻿order,label,icon,is_active
+1,Executive Dashboard,dashboard,true
+2,Team Command Centre,team,false
+3,Nextcloud Operations,cloud,false
+4,Projects Overview,projects,false
+5,JOSHCO / FALCON,building,false
+6,GIC Eastern Cape,building,false
+7,BidFlow360 Centre,bidflow,false
+8,KESO Command Centre,gear,false
+9,HR & People Dashboard,people,false
+10,Finance Dashboard,finance,false
+11,Greenfield vs Brownfield,compare,false
+12,Reports & Analytics,chart,false
+13,Calendar & Meetings,calendar,false
+14,Alerts & Notifications,bell,false
+15,Settings,settings,false

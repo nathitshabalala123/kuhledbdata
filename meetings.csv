@@ -1,0 +1,8 @@
+﻿meeting_id,title,date,start_time,end_time,location,project_id,organizer,show_in_next_meetings
+M001,GIC EC - Barkley East Stakeholder Meeting,2025-05-09,11:00,12:30,East London Office,P002,David Morema,true
+M002,JOSHCO UISP Monthly Report Review,2025-05-09,14:00,15:00,Online - Teams,P001,Sipho Dlamini,true
+M003,KESO Platform Review Meeting,2025-05-09,15:30,16:30,Boardroom,P005,David Morema,true
+M004,National Dialogue ManCo Meeting,2025-05-10,09:00,10:30,Boardroom,P004,David Morema,false
+M005,Weekly Team Stand-up,2025-05-12,08:30,09:00,Online - Teams,,David Morema,false
+M006,BidFlow360 Recovery Workshop,2025-05-13,10:00,12:00,Boardroom,P006,Ayanda Zulu,false
+M007,Finance & Debtors Review,2025-05-14,13:00,14:00,Online - Teams,,Finance Lead,false

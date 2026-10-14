@@ -1,0 +1,6 @@
+﻿alert_id,alert_type,title,project_id,date_raised,severity,owner
+A01,budget_alerts,Mandela Bay Township Programme at 73% budget used vs 33% progress,P015,2025-05-06,Medium,Lindiwe Nkosi
+A02,budget_alerts,BidFlow360 at 73% budget used vs 38% progress,P006,2025-05-07,Medium,Ayanda Zulu
+A03,contract_expiring_30d,Nextcloud Hosting Contract renewal,P014,2025-05-01,Medium,Bongani Sithole
+A04,contract_expiring_30d,Nelson Mandela University MoU expiry,P008,2025-05-02,Medium,Zanele Mbeki
+A05,contract_expiring_30d,Microsoft 365 Licences renewal,,2025-05-03,Medium,Bongani Sithole

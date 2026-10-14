@@ -1,0 +1,4 @@
+﻿invoice_id,client,project_id,amount_zar,issue_date,due_date,days_outstanding,status
+INV-2025-0412,JOSHCO,P001,620000,2025-04-10,2025-05-10,29,Awaiting Payment
+INV-2025-0398,CoGTA,P003,540000,2025-04-02,2025-05-02,37,Awaiting Payment
+INV-2025-0377,Ekurhuleni Metro,P011,260000,2025-03-20,2025-04-19,50,Awaiting Payment

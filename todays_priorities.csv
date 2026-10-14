@@ -1,0 +1,6 @@
+﻿priority_id,title,due_date,due_time,due_label,priority,category,related_project_id,owner
+TP01,JOSHCO UISP Monthly Report,2025-05-09,14:00,Due today at 14:00,High,Report,P001,David Morema
+TP02,GIC EC - Barkley East Stakeholder Meeting,2025-05-09,11:00,Today at 11:00,Medium,Meeting,P002,David Morema
+TP03,Bid Submission: CoGTA Programme,2025-05-09,16:00,Due today at 16:00,High,Tender,P003,Thando Mkhize
+TP04,KESO Platform Review Meeting,2025-05-09,15:30,Today at 15:30,Medium,Meeting,P005,David Morema
+TP05,National Dialogue ManCo Meeting,2025-05-10,09:00,Tomorrow at 09:00,Low,Meeting,P004,David Morema

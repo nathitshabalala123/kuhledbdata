@@ -1,0 +1,13 @@
+﻿tender_id,title,client,stage,value_zar,submission_deadline,probability_pct,owner
+T001,CoGTA Programme Support,CoGTA,Bid Submission,6500000,2025-05-09,55,Thando Mkhize
+T002,Eastern Cape Housing Facilitation,EC Dept Human Settlements,Compiling,3200000,2025-05-16,45,Lindiwe Nkosi
+T003,Buffalo City Community Engagement,Buffalo City Metro,Compiling,1800000,2025-05-20,50,Zanele Mbeki
+T004,Gauteng UISP Phase 3,JOSHCO,Review,4700000,2025-05-23,60,Sipho Dlamini
+T005,Mandela Bay Informal Settlements,Nelson Mandela Bay,Go/No-Go,2900000,2025-05-27,40,David Morema
+T006,National Dialogue Phase 2,National Dialogue Secretariat,Compiling,2500000,2025-05-30,65,David Morema
+T007,Ekurhuleni Township Upgrade,Ekurhuleni Metro,Review,5100000,2025-06-03,35,Lindiwe Nkosi
+T008,Digital Skills Programme,SETA,Compiling,1400000,2025-06-06,50,Naledi Khumalo
+T009,Provincial M&E Framework,Office of the Premier EC,Go/No-Go,2200000,2025-06-10,30,Thando Mkhize
+T010,GADA Phase 2,GADA,Compiling,2700000,2025-06-13,55,Thando Mkhize
+T011,KESO Licensing Municipal Pilot,District Municipality,Proposal Sent,950000,2025-05-02,70,David Morema
+T012,University Stakeholder Engagement,Nelson Mandela University,Proposal Sent,1100000,2025-04-28,60,Zanele Mbeki

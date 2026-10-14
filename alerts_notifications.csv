@@ -1,0 +1,5 @@
+﻿alert_type,label,count,severity,icon
+overdue_deliverables,Overdue Deliverables,4,Critical,red
+tasks_due_today,Tasks Due Today,6,High,orange
+budget_alerts,Budget Alerts,2,Medium,yellow
+contract_expiring_30d,Contract Expiring (30 days),3,Medium,blue

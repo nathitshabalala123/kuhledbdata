@@ -1,0 +1,13 @@
+﻿section,item_id,name,subtitle,score_pct,gauge_min,gauge_max,status_band
+Individual Capacity,IC01,National Dialogue,,85,0,100,green
+Individual Capacity,IC02,CoGTA RMO / MPTAS,,78,0,100,green
+Individual Capacity,IC03,IAP2 Southern Africa,,60,0,100,orange
+Individual Capacity,IC04,Nelson Mandela University,,90,0,100,green
+Founder Responsibilities,FR01,KESO,Digital Platform,80,0,100,green
+Founder Responsibilities,FR02,BidFlow360,,55,0,100,orange
+Founder Responsibilities,FR03,Kuhle Academy,,65,0,100,orange
+Founder Responsibilities,FR04,PISS / ISUPSIS,,75,0,100,green
+Delivery Portfolio,DP01,JOSHCO / Falcon UISP,,88,0,100,green
+Delivery Portfolio,DP02,GIC Eastern Cape,,82,0,100,green
+Delivery Portfolio,DP03,Ekurhuleni Projects,,68,0,100,orange
+Delivery Portfolio,DP04,GADA Project,,75,0,100,green

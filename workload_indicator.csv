@@ -1,0 +1,2 @@
+﻿metric,value_pct,gauge_min,gauge_max,optimal_min_pct,optimal_max_pct,label
+team_workload,68,0,100,60,75,TEAM WORKLOAD

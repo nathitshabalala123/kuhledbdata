@@ -1,0 +1,5 @@
+﻿metric_key,label,value,unit,icon
+files_uploaded,Files Uploaded,43,count,upload
+files_modified,Files Modified,67,count,edit
+files_shared,Files Shared,12,count,share
+storage_used,Storage Used,62,percent,storage

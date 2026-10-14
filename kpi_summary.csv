@@ -1,0 +1,8 @@
+﻿kpi_key,label,value,unit,change_value,change_direction,change_period,gauge_min,gauge_max,icon,accent_color
+active_projects,Active Projects,18,count,2,up,vs last week,,,folder,green
+high_priority_projects,High Priority Projects,6,count,1,up,vs last week,,,flag,orange
+active_tenders,Active Tenders,12,count,3,up,vs last week,,,tender,purple
+overdue_deliverables,Overdue Deliverables,4,count,1,up,vs last week,,,clock,red
+upcoming_meetings,Upcoming Meetings,7,count,2,up,vs today,,,calendar,blue
+invoices_awaiting,Invoices Awaiting,1420000,ZAR,3,up,vs last week,,,invoice,orange
+keso_adoption_score,KESO Adoption Score,72,percent,8,up,vs last month,0,100,gauge,green

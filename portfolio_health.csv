@@ -1,0 +1,6 @@
+﻿metric,value_pct,gauge_min,gauge_max,note
+overall,76,0,100,Overall Portfolio Health
+scope,78,0,100,
+time,72,0,100,
+cost,70,0,100,
+quality,84,0,100,

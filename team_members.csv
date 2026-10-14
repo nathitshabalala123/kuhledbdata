@@ -1,0 +1,18 @@
+﻿user_id,name,role,department,activity_level,active_today,workload_pct,documents_modified_today
+U01,David Morema,Founder & Head Specialist,Executive,High,true,85,9
+U02,Sipho Dlamini,Senior Project Manager,Delivery,High,true,78,7
+U03,Lindiwe Nkosi,Project Manager,Delivery,High,true,82,6
+U04,Thando Mkhize,Bids & Tenders Lead,Business Development,High,true,88,8
+U05,Zanele Mbeki,Stakeholder Engagement Lead,Delivery,High,true,70,5
+U06,Ayanda Zulu,Platform Developer,Technology,High,true,90,6
+U07,Bongani Sithole,Systems Administrator,Technology,High,true,72,4
+U08,Naledi Khumalo,Academy Coordinator,Academy,High,true,65,5
+U09,Palesa Moloi,Finance Officer,Finance,Medium,true,60,3
+U10,Kagiso Ndlovu,M&E Analyst,Delivery,Medium,true,64,2
+U11,Nomsa Dube,HR Officer,HR,Medium,true,55,1
+U12,Themba Khoza,Community Facilitator,Delivery,Medium,true,58,1
+U13,Refilwe Mahlangu,Admin Assistant,Operations,Low,true,40,0
+U14,Sandile Buthelezi,Field Researcher,Delivery,No Activity,false,0,0
+U15,Lerato Mokoena,Community Facilitator,Delivery,No Activity,false,0,0
+U16,Mpho Sekhota,Junior Analyst,Delivery,No Activity,false,0,0
+U17,Andile Ngcobo,Intern,Operations,No Activity,false,0,0
